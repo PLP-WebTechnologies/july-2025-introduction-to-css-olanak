@@ -1,0 +1,17 @@
+div {
+    width: 320px;
+    height: 300px;
+    padding: 30px;
+    border: 20px solid gray;
+    margin: 20px auto;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    color: blue;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    color: green;
+}
